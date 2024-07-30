@@ -11,13 +11,15 @@
 [![Static Badge](https://img.shields.io/badge/C%2B%2B-FFFFFF?logo=cplusplus&logoColor=%23FFFFFF&labelColor=%23111111&color=%2300599C)](https://isocpp.org/)
 [![Static Badge](https://img.shields.io/badge/JavaScript-FFFFFF?logo=javascript&logoColor=%23FFFFFF&labelColor=%23111111&color=%23F7DF1E)](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
 [![Static Badge](https://img.shields.io/badge/Pseudocode-FFFFFF?logoColor=%23FFFFFF&labelColor=%23111111&color=%2300ff3e)](https://github.com/willumz/generic-pseudocode-vscode)
-[![Static Badge](https://img.shields.io/badge/PowerShell-FFFFFF?logoColor=%23FFFFFF&labelColor=%23111111&color=%23213348)](https://learn.microsoft.com/en-us/powershell/)  
+[![Static Badge](https://img.shields.io/badge/PowerShell-FFFFFF?logoColor=%23FFFFFF&labelColor=%23111111&color=%23213348)](https://learn.microsoft.com/en-us/powershell/)
+[![Static Badge](https://img.shields.io/badge/Python-FFFFFF?logo=python&logoColor=%23ffffff&labelColor=%23111111&color=%233776AB)](https://www.python.org/)
 
 Symmetric Difference Algorithm  
 - C#  
 - C++  
 - JavaScript 
 - Pseudocode  
-- PowerShell  
+- PowerShell
+- Python  
 
 ---
