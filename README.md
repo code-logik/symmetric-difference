@@ -15,11 +15,11 @@
 [![Static Badge](https://img.shields.io/badge/Python-FFFFFF?logo=python&logoColor=%23ffffff&labelColor=%23111111&color=%233776AB)](https://www.python.org/)
 
 Symmetric Difference Algorithm  
-- C#  
-- C++  
-- JavaScript 
-- Pseudocode  
-- PowerShell
+- [C#](C#/SymmetricDifference/SymmetricDifference.cs)  
+- [C++](C++/symmetric-difference.cpp)  
+- [JavaScript](JavaScript/symmetric-difference.js)  
+- [Pseudocode](Pseudocode/symmetric-difference.pseudo)  
+- [PowerShell](Powershell/symmetric-difference.ps1)  
 - Python  
 
 ---
