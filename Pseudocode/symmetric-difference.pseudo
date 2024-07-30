@@ -1,0 +1,89 @@
+class SymmetricDifference
+{
+    private _SETS
+    private _SYMMETRIC_DIFFERENCE
+
+    constructor(params)
+    {
+        index = -1
+        foreach(param in params)
+        {
+            switch(index)
+            {
+                case -1:
+                    _SYMMETRIC_DIFFERENCE = param
+                    _SYMMETRIC_DIFFERENCE.Sort()
+                    _SYMMETRIC_DIFFERENCE.Unique()
+                    break
+                
+                case default:
+                    _SETS[index] = param
+                    _SETS[index].Sort()
+                    _SETS[index].Unique()
+                    break
+            }
+
+            index++
+        }  
+    }
+
+    public void Calculate()
+    {
+        for(i = 0; i < _SETS.Length; i++) 
+        {
+            Difference(_SETS[i])
+        }
+    }
+
+    public void PrintSymmetricDifference()
+    {
+        print _SYMMETRIC_DIFFERENCE
+    }
+
+    private void Difference(param)
+    {
+        foreach(number in param)
+        {
+            if(IsUnique(number))
+            {
+                _SYMMETRIC_DIFFERENCE.Add(number)
+            }
+            else
+            {
+                _SYMMETRIC_DIFFERENCE.Remove(number)
+            }
+        }
+
+        _SYMMETRIC_DIFFERENCE.Sort()
+    }
+
+    private bool IsUnique(param)
+    {
+        foreach(number in _SYMMETRIC_DIFFERENCE)
+        {
+            if(param == number)
+            {
+                return false
+            }
+        }
+
+        return true
+    }
+}
+
+main()
+{
+    sets = 
+    {
+        { 3, 3, 3, 2, 5 },
+        { 2, 1, 5, 7 },
+        { 3, 4, 6, 6 },
+        { 1, 2, 3 },
+        { 5, 3, 9, 8 },
+        { 1 }
+    }
+
+    symmetricDifference = SymmetricDifference(sets)
+    symmetricDifference.Calculate()
+    symmetricDifference.PrintSymmetricDifference()
+}
