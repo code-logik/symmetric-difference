@@ -13,7 +13,7 @@ class SymmetricDifference
     {
         for(let i = 0; i < this.#sets.length; i++)
         {
-            this.#symmetric_difference = this.#calculate(this.#sets[i]);
+            this.#calculate(this.#sets[i]);
         }
 
         return this.#symmetric_difference;
@@ -35,8 +35,6 @@ class SymmetricDifference
                 this.#symmetric_difference = this.#symmetric_difference.filter(number => number !== arg[i]);
             }
         }
-
-        return this.#symmetric_difference.sort(this.#sortSet);
     }
 
     #isUnique(arg)
