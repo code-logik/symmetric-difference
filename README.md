@@ -15,12 +15,11 @@
 [![Static Badge](https://img.shields.io/badge/Python-FFFFFF?logo=python&logoColor=%23ffffff&labelColor=%23111111&color=%233776AB)](https://www.python.org/)
 
 Symmetric Difference Algorithm  
-- [C#](https://github.com/code-logik/symmetric-difference/blob/b8e13857aa50f2d7c98a9f6f285942a354c3c267/C%23/SymmetricDifference/SymmetricDifference.cs)
-- [C++](https://github.com/code-logik/symmetric-difference/blob/b8e13857aa50f2d7c98a9f6f285942a354c3c267/C%2B%2B/symmetric-difference.cpp)
-- [JavaScript](https://github.com/code-logik/symmetric-difference/blob/82e3b1743d6ac663d0b7fbfd999790a5489c9bfb/JavaScript/symmetric-difference-class.js)
-- [PowerShell](https://github.com/code-logik/symmetric-difference/blob/b8e13857aa50f2d7c98a9f6f285942a354c3c267/Powershell/symmetric-difference.ps1)
-- [Pseudocode](https://github.com/code-logik/symmetric-difference/blob/b8e13857aa50f2d7c98a9f6f285942a354c3c267/Pseudocode/symmetric-difference.pseudo)
-- [Python](https://github.com/code-logik/symmetric-difference/blob/abfb050b0a183b43c5ac8933ac2e36d05000c364/Python/symmetric-difference.py)
-- [test](C%23%2FSymmetricDifference%2FSymmetricDifference.cs)
+- [C#](C%23%2FSymmetricDifference%2FSymmetricDifference.cs)
+- [C++](C%2B%2B/symmetric-difference.cpp)
+- [JavaScript](JavaScript/symmetric-difference-class.js)
+- [PowerShell](Powershell/symmetric-difference.ps1)
+- [Pseudocode](Pseudocode/symmetric-difference.pseudo)
+- [Python](Python/symmetric-difference.py)  
 
 ---
