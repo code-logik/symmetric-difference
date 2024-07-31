@@ -16,7 +16,7 @@ class SymmetricDifference
             this.#calculate(this.#sets[i]);
         }
 
-        return this.#symmetric_difference;
+        return this.#symmetric_difference.sort();
     }
 
     #calculate(arg)
@@ -46,18 +46,6 @@ class SymmetricDifference
         else
         {
             return true;
-        }
-    }
-
-    #sortSet(...args)
-    {
-        if(args[0] === args[1])
-        {
-            return 0;
-        }
-        else
-        {
-            return (args[0] < args[1]) ? -1 : 1;
         }
     }
 }
