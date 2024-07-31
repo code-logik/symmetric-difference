@@ -21,6 +21,6 @@ Symmetric Difference Algorithm
 - [PowerShell](https://github.com/code-logik/symmetric-difference/blob/b8e13857aa50f2d7c98a9f6f285942a354c3c267/Powershell/symmetric-difference.ps1)
 - [Pseudocode](https://github.com/code-logik/symmetric-difference/blob/b8e13857aa50f2d7c98a9f6f285942a354c3c267/Pseudocode/symmetric-difference.pseudo)
 - [Python](https://github.com/code-logik/symmetric-difference/blob/abfb050b0a183b43c5ac8933ac2e36d05000c364/Python/symmetric-difference.py)
-- [test](C#/SymmetricDifference/SymmetricDifference.cs)
+- [test](C%23%2FSymmetricDifference%2FSymmetricDifference.cs)
 
 ---
