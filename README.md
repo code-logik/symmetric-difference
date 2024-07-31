@@ -17,7 +17,7 @@
 Symmetric Difference Algorithm  
 - [C#](https://github.com/code-logik/symmetric-difference/blob/b8e13857aa50f2d7c98a9f6f285942a354c3c267/C%23/SymmetricDifference/SymmetricDifference.cs)
 - [C++](https://github.com/code-logik/symmetric-difference/blob/b8e13857aa50f2d7c98a9f6f285942a354c3c267/C%2B%2B/symmetric-difference.cpp)
-- [JavaScript](https://github.com/code-logik/symmetric-difference/blob/b8e13857aa50f2d7c98a9f6f285942a354c3c267/JavaScript/symmetric-difference.js)
+- [JavaScript](https://github.com/code-logik/symmetric-difference/blob/35a1cc1ae2f072eb702290e13d6b5895c9e857b9/JavaScript/symmetric-difference-class.js)
 - [PowerShell](https://github.com/code-logik/symmetric-difference/blob/b8e13857aa50f2d7c98a9f6f285942a354c3c267/Powershell/symmetric-difference.ps1)
 - [Pseudocode](https://github.com/code-logik/symmetric-difference/blob/b8e13857aa50f2d7c98a9f6f285942a354c3c267/Pseudocode/symmetric-difference.pseudo)
 - [Python](https://github.com/code-logik/symmetric-difference/blob/abfb050b0a183b43c5ac8933ac2e36d05000c364/Python/symmetric-difference.py)  
